@@ -23,26 +23,13 @@ const CONFIG = {
    },
     seo: { title: 'Hashir | MHIA', description: 'Linux, FOSS and tech enthusiast', imageURL: 'https://avatars.githubusercontent.com/u/173710334?v=4' },
     social: {
-        linkedin: 'muhammad-hashir-aamir',
-        x: 'arif_szn',
-        mastodon: 'arifszn@mastodon.social',
-        researchGate: '',
-        facebook: '',
-        instagram: '',
-        reddit: '',
-        threads: '',
-        youtube: '', // example: 'pewdiepie'
-        udemy: '',
-        dribbble: '',
-        behance: '',
-        medium: 'arifszn',
-        dev: 'arifszn',
-        stackoverflow: '', // example: '1/jeff-atwood'
-        discord: '',
-        telegram: '',
+        linkedin: 'Muhammad Hashir Aamir',
+        instagram: 'hashir.mhia',
+        reddit: 'MHIATIC_MHIA',
+        discord: 'hashir.mhia',
         website: 'https://www.arifszn.com',
-        phone: '',
-        email: '',
+        phone: '+92 336 4988771',
+        email: 'hashiraamir@protonmail.com',
     },
     resume: {
         fileUrl:
