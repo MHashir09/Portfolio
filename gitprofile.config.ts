@@ -20,32 +20,10 @@ const CONFIG = {
                 projects: ['TheCodeVerseHub/CodeVerseLinuxDistro', 'MHashir09/Meovim', 'MHashir09/Nekulator', 'MHashir09/Rofi-WebApps-Manager', 'MHashir09/MyniaBot', 'MHashir09/Otabodo', 'MHashir09/Pixa-san', 'MHashir09/Ragnarok-Form'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
             },
         },
-        external: {
-            header: 'My Projects',
-            // To hide the `External Projects` section, keep it empty.
-            projects: [
-                {
-                    title: 'Project Name',
-                    description:
-                        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-                    imageUrl:
-                        'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-                    link: 'https://example.com',
-                },
-                {
-                    title: 'Project Name',
-                    description:
-                        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-                    imageUrl:
-                        'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-                    link: 'https://example.com',
-                },
-            ],
-        },
-    },
-    seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+   },
+    seo: { title: 'Hashir | MHIA', description: 'Linux, FOSS and tech enthusiast', imageURL: 'https://avatars.githubusercontent.com/u/173710334?v=4' },
     social: {
-        linkedin: 'ariful-alam',
+        linkedin: 'muhammad-hashir-aamir',
         x: 'arif_szn',
         mastodon: 'arifszn@mastodon.social',
         researchGate: '',
