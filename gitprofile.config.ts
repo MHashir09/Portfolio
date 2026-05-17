@@ -42,22 +42,6 @@ const CONFIG = {
         'Bash',
         'Linux',
     ],
-    experiences: [
-        {
-            company: 'Company Name',
-            position: 'Position',
-            from: 'September 2021',
-            to: 'Present',
-            companyLink: 'https://example.com',
-        },
-        {
-            company: 'Company Name',
-            position: 'Position',
-            from: 'July 2019',
-            to: 'August 2021',
-            companyLink: 'https://example.com',
-        },
-    ],
     certifications: [
         {
             name: 'Lorem ipsum',
