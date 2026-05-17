@@ -51,7 +51,7 @@ const CONFIG = {
         },
     ],
     themeConfig: {
-        defaultTheme: 'lofi',
+        defaultTheme: 'silk',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
@@ -59,7 +59,7 @@ const CONFIG = {
 
         // Should use the prefers-color-scheme media-query,
         // using user system preferences, instead of the hardcoded defaultTheme
-        respectPrefersColorScheme: false,
+        respectPrefersColorScheme: true,
 
         // Display the ring in Profile picture
         displayAvatarRing: true,
@@ -106,11 +106,7 @@ const CONFIG = {
     },
 
     // Optional Footer. Supports plain text or HTML.
-    footer: `Made with <a
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    footer: `Made with 𓆩♡𓆪`,
 
     enablePWA: true,
 };
