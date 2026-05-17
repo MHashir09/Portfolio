@@ -26,7 +26,6 @@ const CONFIG = {
         instagram: 'hashir.mhia',
         reddit: 'MHIATIC_MHIA',
         discord: 'hashir.mhia',
-        website: 'https://www.arifszn.com',
         email: 'hashiraamir@protonmail.com',
     },
     skills: [
