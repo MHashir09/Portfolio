@@ -42,15 +42,7 @@ const CONFIG = {
         'Bash',
         'Linux',
     ],
-    certifications: [
-        {
-            name: 'Lorem ipsum',
-            body: 'Lorem ipsum dolor sit amet',
-            year: 'March 2022',
-            link: 'https://example.com',
-        },
-    ],
-    educations: [
+   educations: [
         {
             institution: 'Institution Name',
             degree: 'Degree',
