@@ -27,7 +27,6 @@ const CONFIG = {
         reddit: 'MHIATIC_MHIA',
         discord: 'hashir.mhia',
         website: 'https://www.arifszn.com',
-        phone: '+92 336 4988771',
         email: 'hashiraamir@protonmail.com',
     },
     skills: [
@@ -61,7 +60,7 @@ const CONFIG = {
     // Track visitor interaction and behavior. https://www.hotjar.com
     hotjar: { id: '', snippetVersion: 6 },
     themeConfig: {
-        defaultTheme: 'lofi',
+        defaultTheme: 'silk',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
@@ -69,7 +68,7 @@ const CONFIG = {
 
         // Should use the prefers-color-scheme media-query,
         // using user system preferences, instead of the hardcoded defaultTheme
-        respectPrefersColorScheme: false,
+        respectPrefersColorScheme: true,
 
         // Display the ring in Profile picture
         displayAvatarRing: true,
