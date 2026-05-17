@@ -50,8 +50,19 @@ const CONFIG = {
             to: 'Present',
         },
     ],
+    // Display articles from your medium or dev account. (Optional)
+    blog: {
+        source: 'dev', // medium | dev
+        username: 'arifszn', // to hide blog section, keep it empty
+        limit: 2, // How many articles to display. Max is 10.
+    },
+    googleAnalytics: {
+        id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    },
+    // Track visitor interaction and behavior. https://www.hotjar.com
+    hotjar: { id: '', snippetVersion: 6 },
     themeConfig: {
-        defaultTheme: 'silk',
+        defaultTheme: 'lofi',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
@@ -59,7 +70,7 @@ const CONFIG = {
 
         // Should use the prefers-color-scheme media-query,
         // using user system preferences, instead of the hardcoded defaultTheme
-        respectPrefersColorScheme: true,
+        respectPrefersColorScheme: false,
 
         // Display the ring in Profile picture
         displayAvatarRing: true,
@@ -106,7 +117,11 @@ const CONFIG = {
     },
 
     // Optional Footer. Supports plain text or HTML.
-    footer: `Made with 𓆩♡𓆪`,
+    footer: `Made with <a
+      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      target="_blank"
+      rel="noreferrer"
+    >GitProfile</a> and ❤️`,
 
     enablePWA: true,
 };
