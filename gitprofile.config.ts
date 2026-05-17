@@ -23,7 +23,6 @@ const CONFIG = {
    },
     seo: { title: 'Hashir | MHIA', description: 'Linux, FOSS and tech enthusiast', imageURL: 'https://avatars.githubusercontent.com/u/173710334?v=4' },
     social: {
-        linkedin: 'Muhammad Hashir Aamir',
         instagram: 'hashir.mhia',
         reddit: 'MHIATIC_MHIA',
         discord: 'hashir.mhia',
@@ -31,25 +30,17 @@ const CONFIG = {
         phone: '+92 336 4988771',
         email: 'hashiraamir@protonmail.com',
     },
-    resume: {
-        fileUrl:
-            'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
-    },
     skills: [
-        'PHP',
-        'Laravel',
         'JavaScript',
         'React.js',
         'Node.js',
-        'Nest.js',
         'MySQL',
-        'PostgreSQL',
         'Git',
-        'Docker',
-        'PHPUnit',
         'CSS',
-        'Antd',
-        'Tailwind',
+        'C',
+        'Lua',
+        'Bash',
+        'Linux',
     ],
     experiences: [
         {
