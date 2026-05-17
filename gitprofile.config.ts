@@ -44,16 +44,10 @@ const CONFIG = {
     ],
    educations: [
         {
-            institution: 'Institution Name',
-            degree: 'Degree',
-            from: '2015',
-            to: '2019',
-        },
-        {
-            institution: 'Institution Name',
-            degree: 'Degree',
-            from: '2012',
-            to: '2014',
+            institution: 'Punjab Group Of Colleges',
+            degree: 'Intermediate',
+            from: '2026',
+            to: 'Present',
         },
     ],
     publications: [
